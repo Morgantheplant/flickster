@@ -1,5 +1,7 @@
  Project 1 - *Flickster*
 
+
+
 **Flickster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 Time spent: **4** hours spent in total
@@ -38,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![videoVakthrough](./android_flixster.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
