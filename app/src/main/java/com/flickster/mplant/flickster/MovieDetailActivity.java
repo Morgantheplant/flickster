@@ -88,7 +88,7 @@ public class MovieDetailActivity extends AppCompatActivity {
         String rt = String.valueOf(movieDetail.getRuntime());
         String runtimeText = ctx.getResources().getString(R.string.runtime, rt);
         mRuntime.setText(runtimeText);
-        String releaseDateText = ctx.getResources().getString(R.string.runtime, movieDetail.getReleaseDate());
+        String releaseDateText = ctx.getResources().getString(R.string.release_date, movieDetail.getReleaseDate());
         mReleaseDate.setText(releaseDateText);
 
     }
